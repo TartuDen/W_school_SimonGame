@@ -34,3 +34,7 @@ h1{
 .blue{
     background-color: blue;
 }
+
+.clicked{
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.8); /* Adjust the values according to your preference */
+}
